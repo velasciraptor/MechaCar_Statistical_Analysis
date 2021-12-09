@@ -34,7 +34,16 @@ However, the table below shows the variance when we look at each individual lot,
 ![](images/lotsum.png)
 
 ## T-Test on Suspension Coils
+A t-test is used to determine whether there is a statistical difference between the means of a dataset and a another. The first image below shows the results for a t-test on the PSI across all manufacturing lots as compared to the population mean of 1500 pounds per square inch.  
 
+![](images/ttest1.png)
+
+Assuming our significance is 0.05 percent, we can see that the p-value is higher and therefore, the population mean and the mean our lots are statisticallly similar.The next image below shows the results for a t-test on the PSI across each manufacturing lot (there are 3) as compared to the population mean of 1500 pounds per square inch.  
+
+
+![](images/ttest2.png)
+
+For lot1, we can see the p-value is 1, which suggests there is statistically no difference between it and the population mean. For lot2, the p-value is higher than 0.05 and therefore, the population mean and the mean of this lot are statisticallly similar. Lastly is lot3, which has a p-value less than 0.05. Lot3 is not statistically similar to our population mean. 
 
 ## Design a Study Comparing the MechaCar to the Competition
 
