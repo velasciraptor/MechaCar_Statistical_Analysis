@@ -26,5 +26,3 @@ lot3 <- susCoil_df[101:150,]
 t.test((lot1$PSI), mu=1500)
 t.test((lot2$PSI), mu=1500)
 t.test((lot3$PSI), mu=1500)
-
-# Design a Study Comparing the MechaCar to the Competition
