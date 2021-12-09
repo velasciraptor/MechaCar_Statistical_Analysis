@@ -51,4 +51,4 @@ Proposal:
 - Let us compare the MechaCar to our competitors by comparing engine life. 
 - The null hypothesis is that our cars have the same engine life as other companies. The alternative hypothesis is that our cars have a different engine life (hopefully longer) than the competition. 
 - The statistical test we will use is the pair t-test because it compares two samples between different populations to see if they are statistically similar or not.
-- The data we will need is a sample of 1,000 MechaCars engine life length in miles. All cars usually have a warranty for the first 100,000 miles, and on average most cars last at least 200,000 miles. Time to start testing!
+- The data we will need is a sample of 1,000 MechaCars engine life length in miles, and a sample which is the same of our competition. All cars usually have a warranty for the first 100,000 miles, and on average most cars last at least 200,000 miles. Time to start testing!
